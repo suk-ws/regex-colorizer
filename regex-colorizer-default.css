@@ -1,0 +1,35 @@
+.regex .reg-anchor {
+	color: #884400;
+	font-style: bold;
+}
+
+.regex .reg-cescape {
+	color: #cc00cc;
+}
+
+.regex .reg-quantifier {
+	color: #5588ff;
+}
+
+.regex .reg-cclass,
+.regex .reg-set .reg-set-tag {
+	color: #dd7700;
+}
+
+.regex .reg-set {
+	background-color: #ff990045;
+}
+
+.regex .reg-group {
+	background-color: #00ee001c
+}
+
+.regex .reg-alter,
+.regex .reg-ref,
+.regex .reg-group .reg-group-tag {
+	color: #00aa00;
+}
+
+.regex .reg-error {
+	border-bottom: solid 2px #dd2222;
+}
